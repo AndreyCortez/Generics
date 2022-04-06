@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['gpio_16',['GPIO',['../class_g_p_i_o.html',1,'GPIO'],['../class_g_p_i_o.html#ab443a641cef81b1a9ec0211c5aa9c1ac',1,'GPIO::GPIO()'],['../class_g_p_i_o.html#a1fc2b93f6c66e85fab2f6cfadc486971',1,'GPIO::GPIO(GPIO_TypeDef *endereco_porta, uint16_t endereco_pino)']]],
-  ['gpio_2ecpp_17',['GPIO.cpp',['../_g_p_i_o_8cpp.html',1,'']]],
-  ['gpio_2ehpp_18',['GPIO.hpp',['../_g_p_i_o_8hpp.html',1,'']]]
+  ['default_5ftimeout_12',['default_timeout',['../class_s_p_i.html#a282eae661333820cdd3fdeb675653d3a',1,'SPI']]],
+  ['delay_13',['delay',['../class_i2_c.html#a7f3bb2ad38b2d3a86a3a6b5125e30569',1,'I2C']]]
 ];

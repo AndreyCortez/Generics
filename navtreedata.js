@@ -23,9 +23,10 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "TAL", "index.html", [
-    [ "TAL", "md__docs_custom-pages__pagina_inicial.html", [
-      [ "Pagina inicial", "md__docs_custom-pages__pagina_inicial.html#autotoc_md1", null ]
+    [ "TAL", "md__docs_custom-pages_1__pagina_inicial.html", [
+      [ "Pagina inicial", "md__docs_custom-pages_1__pagina_inicial.html#autotoc_md1", null ]
     ] ],
+    [ "Como adicionar a TAL ao seu projeto", "md__docs_custom-pages_2__como_adicionar.html", null ],
     [ "README", "md__r_e_a_d_m_e.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
@@ -51,7 +52,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_c_a_n_8cpp.html"
+"_a_d_c_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

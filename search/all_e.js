@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['_7ecan_48',['~Can',['../class_can.html#a43973d2de0ff08db8542a24815c586af',1,'Can']]],
-  ['_7ei2c_49',['~I2C',['../class_i2_c.html#afaad09fa9bdd23623bddbdcd7585a9fe',1,'I2C']]],
-  ['_7espi_50',['~SPI',['../class_s_p_i.html#a6babebf1ea3e8ff0330f43a3e2312ac4',1,'SPI']]]
+  ['readme_48',['README',['../md__r_e_a_d_m_e.html',1,'']]],
+  ['readme_2emd_49',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
+  ['receber_50',['receber',['../class_s_p_i.html#aa26f30a81caf7f46c5e9371b10ccfbb3',1,'SPI']]],
+  ['receber_5fem_5fbuffer_51',['receber_em_buffer',['../class_s_p_i.html#adcc054be8d6ac1e5fbadc8b4fef3f928',1,'SPI']]],
+  ['rx_5fheader_52',['rx_header',['../class_can.html#a835f3c89e2d035bed5e9b898c3b115d7',1,'Can']]]
 ];

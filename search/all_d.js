@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['tal_45',['TAL',['../md__docs_custom-pages__pagina_inicial.html',1,'']]],
-  ['toggle_46',['toggle',['../class_g_p_i_o.html#ade8d7d4a06b41825dcdde3ff711b73e6',1,'GPIO']]],
-  ['tx_5fheader_47',['tx_header',['../class_can.html#a8aa5b2926a6bc3040b2413f38bdc4885',1,'Can']]]
+  ['parar_5fdma_45',['Parar_DMA',['../class_a_d_c.html#a68d34074d604c7bc126838169781b783',1,'ADC']]],
+  ['pino_46',['pino',['../class_g_p_i_o.html#a1405d2e3bcd75a321747ec3973063e8d',1,'GPIO']]],
+  ['porta_47',['porta',['../class_g_p_i_o.html#a90fb936d88a57581a6783576bc6ac374',1,'GPIO']]]
 ];
